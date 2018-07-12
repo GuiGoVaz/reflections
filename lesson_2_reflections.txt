@@ -13,3 +13,26 @@ repositório? Qual valor você acha que ela oferece?
 É possível verificar quais arquivos serão atualizados, e quais diferenças serão 
 atualizadas, assim você pode fazer as devidas alterações para que seja criado 
 um commit devidamente desejado.
+
+4-Quais são algumas das situações em que branches seriam úteis para manter seu 
+histórico organizado? Como branches ajudariam?
+
+Se houver alguma ideia experimental que gostaria de criar e incluir n projeto, 
+enquanto ainda trabalha no projeto original, seria bom possuir dois branchs, 
+um para o trabalho original e outro para desenvoulver a ideia experimental.
+
+5- Como os diagramas ajudam a visualizar a estrutura de branches?
+
+Facilita verificar onde cada branch diverge, quais commits cada branch possui 
+em relação a outro branch; criar novos branchs a partir de commits anteriores. 
+
+6-Qual é o resultado da mesclagem de dois branches? Por que o representamos 
+no diagrama dessa forma?
+
+O branch final é resultado da soma e subtração de todas as linhas em relação 
+ao commit em comum.
+
+7- Quais são os prós e contras da mesclagem automática do Git v. sempre fazer 
+mesclagens manualmente?
+
+Você tem mais controle na hora da mesclagem quando houver qualquer sinal de conflito.
