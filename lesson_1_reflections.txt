@@ -1,0 +1,50 @@
+﻿1- Como a visualização de um diff entre duas versões de um arquivo ajuda você a
+ver o bug que foi introduzido?
+
+Ao ver as diferenças nos codigos, é possivel analisar mais rapidamente o que pode
+ser a causa do bug.
+
+2- Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um 
+programador mais eficiente no longo prazo?
+
+Com o fácil acesso à diferentes versôes dos arquivos, não preciso me preocupar 
+em criar tais versões manualmente, economizando tempo, e ter mútiplas versões 
+é vantajoso (como dito anteriormente).
+
+3- Na sua opinião, quais são os prós e contras de escolher manualmente quando 
+criar um commit, como ocorre no Git, v. o salvamento automático de versões, 
+como no Google Docs?
+
+Prós manualmente: Define diferenças logicas para cada versão
+Contras: É preciso prática para se acostumar a criar commits na medida certa.
+
+Prós auto: Você não precisa se preocupar em criar diferentes versões do mesmo código.
+Contras: Diferentes versões podem se tornarem bem parecidas, e também extremamente diferentes.
+
+4-Por que você acha que alguns sistemas de controle de versão, como o Git, 
+permitem salvar vários arquivos em um commit, enquanto outros, como o 
+Google Docs, tratam cada arquivo separadamente?
+
+Porque cada sistema é usado para um fim diferente, e é mais útil salvar vários
+arquivos em commit quando se trata de códigos, pois muita das vezes, uma alteração
+em um arquivo interfere no outro.
+Essa probabilidade cai quando se trata de apenas arquivos de vídeo, imagem, etc.
+
+5- Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+
+A partir do momento em que voce se encontra em um repositório, digitar git log mostrará 
+todos os commits feitos, e com git diff é possivel ver as diferenças entre dois commits.
+
+6- De que modo o controle de versão pode dar a você mais segurança para fazer 
+alterações que podem danificar algo?
+
+Você pode fazer qualquer alteração que desejar, pois pode voltar à outras versões anteriores 
+do mesmo arquivo caso algo de errado aconteça.
+
+7- Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+Até agora, consigo pensar somente na característica de version-control da aplicação.
+
+
+
+
